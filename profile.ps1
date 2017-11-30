@@ -1,3 +1,7 @@
+# PowerShell stores your profile in a variable called "$PROFILE"
+# To change your profile to this one, invoke "notepad" and call this variable...
+# Type "notepad $PROFILE" at the prompt and away you go.
+
 # Setup the default location
 set-location c:\
 
